@@ -1,0 +1,9 @@
+{
+    "admin": {
+      "username": "admin",
+      "password": "12345678",
+      "first_name": "First_name",
+      "last_name": "LastName",
+      "email": "admin@gmail.com"
+    }
+  }

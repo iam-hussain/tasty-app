@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "tasty",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "",
+    "database": "tasty",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "9jxNCrtE1P",
+    "password": "3BAlS98yQB",
+    "database": "9jxNCrtE1P",
+    "host": "remotemysql.com",
+    "dialect": "mysql"
+  }
+}
